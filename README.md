@@ -61,7 +61,7 @@
 - 最近の主な関心事項
   - 機械学習、深層学習、人工知能
   - NeuralNetworkConsole(SONY)、TensorFlow(Google)
-- 主な開発ツール
+- よく使う開発ツール
   - 開発マシン：iMac/MacBookAir/Windows自作機/Let'snote CF-B10
   - 使用OS：macOS(Siera)/Linux(Ubuntu16.04/CentOS7)/Windows10
   - エディタ：emacs/vim/atom
@@ -69,6 +69,8 @@
   - 統合開発環境：Xcode/AndroidStudio/VisualStudio
   - 仮想環境：VirtualBox/VMwarePlayer/Vagrant
   - ビルドツール：make/ant/maven/rake
+  - テストツール：JUnit/rspec/Minitest
+  - PaaS：heroku
 - Ruby on Railsの学習歴
   - RailsによるアジャイルWebアプリケーション開発(第4版)
   - Ruby on Rails 4 アプリケーションプログラム
