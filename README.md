@@ -32,7 +32,7 @@
 
 - プログラミング
   - C/C++/Objective-C/Java/Perl/PHP/Ruby/Python
-  - HTML5/CSS3/JavaScript/jQuer
+  - HTML5/CSS3/JavaScript/jQuery
 - データベース
   - PostgreSQL/MySQL/SQLite3
 - Webアプリ開発
