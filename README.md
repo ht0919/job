@@ -1,6 +1,6 @@
 # 職務経歴書
 
-## 現在の職業(2017/09/02現在)
+## 現在の職業
 
 - 専門学校・大学・社会人スクールでの非常勤講師
 - 個人的なスマートフォンアプリ開発(iOS/Android)
@@ -78,9 +78,11 @@
   - Ruby on Rails 3 アプリケーションプログラム
   - RailsによるアジャイルWebアプリケーション開発(初版)
 - 公開中のスマートフォンアプリ
-  - アルパカ牧場(iOS) ※ゲームアプリ
-  - アルパカ税込電卓(iOS/Android)
-- 公開中のGitHubアドレス (http://github.com/ht0919)
+  - [アルパカ牧場](https://itunes.apple.com/jp/app/arupaka-mu-chang/id529440333?mt=8&ign-mpt=uo%3D4)(iOS) ※ゲームアプリ
+  - [アルパカ税込電卓](https://itunes.apple.com/jp/app/arupaka-shui-ru-dian-zhuo/id834793329?mt=8&ign-mpt=uo%3D4)(iOS)
+  - [アルパカ税込電卓](https://play.google.com/store/apps/details?id=cx.ath.digiwrite.taxcalc)(Android)
+- 公開中のGitHubアドレス
+  - [http://github.com/ht0919](http://github.com/ht0919)
 - プログラミングスキル(paiza)
   - ランク：A、回答数：115問、言語マスター：12種類
   - Java/PHP/Ruby/Python2/Python3/Perl/C/C++/C#/JS/Objective-C/Scala/Go/Swift
@@ -90,9 +92,9 @@
 
 ### テクニカルライター(1995年4月〜2004年9月)
 
-  - 技術評論社：自宅で2台以上のパソコンをつなげたい人の本(2002年8月)
-  - 翔泳社：ブロードバンド＋無線LANユーザーのためのナンデモ相談室(2002年8月)
-  - 翔泳社：フレッツ・ISDN/ADSL/CATVユーザーのための常時接続セキュリティ入門(2001年7月)
+  - 技術評論社：[自宅で2台以上のパソコンをつなげたい人の本](http://gihyo.jp/book/2002/4-7741-1543-6/)(2002年8月)
+  - 翔泳社：[ブロードバンド＋無線LANユーザーのためのナンデモ相談室](https://www.seshop.com/product/detail/1366)(2002年8月)
+  - 翔泳社：[フレッツ・ISDN/ADSL/CATVユーザーのための常時接続セキュリティ入門](https://www.seshop.com/product/detail/2320)(2001年7月)
   - 月刊誌「アスキードットピーシー」(2003年11月号)
   - 月刊誌「アスキードットピーシー」(2003年9月号)
   - ナツメ出版社ステップ図解シリーズ(1995年4月～2000年1月)(5年間で55冊を執筆)
@@ -108,10 +110,10 @@
 
 
 - ビクター音楽産業株式会社(1987年11月〜1990年8月)
-  - ホラーアドベンチャーゲーム「デウリング」アセンブリ言語(Z80/8086/6809)
-  - ミステリーアドベンチャーゲーム「Daydream」アセンブリ言語(Z80/8086/6809)
-  - 作曲ツール「MUSIUM-2」アセンブリ言語(Z80)
-  - ロボットアクションゲーム「ZION」アセンブリ言語(6809)
+  - ホラーアドベンチャーゲーム「[デウリング](http://digiwrite.ath.cx/~h_tanaka/game/gm04.html)」アセンブリ言語(Z80/8086/6809)
+  - 作曲ツール「[MUSIUM-2](http://digiwrite.ath.cx/~h_tanaka/game/gm03.html)」アセンブリ言語(Z80)
+  - ミステリーアドベンチャーゲーム「[Daydream](http://digiwrite.ath.cx/~h_tanaka/game/gm02.html)」アセンブリ言語(Z80/8086/6809)
+  - ロボットアクションゲーム「[ZION](http://digiwrite.ath.cx/~h_tanaka/game/gm01.html)」アセンブリ言語(6809)
 
 
 - 三和プランニング株式会社(1982年4月〜1987年10月)
