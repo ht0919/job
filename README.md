@@ -60,7 +60,7 @@
 ## 個人プロジェクト
 
 - 最近の主な関心事項
-  - 機械学習、深層学習、人工知能
+  - 仮想通貨、ブロックチェイン、機械学習、深層学習、人工知能
   - NeuralNetworkConsole(SONY)、TensorFlow(Google)
 - よく使う開発ツール
   - 開発マシン：iMac/MacBookAir/Windows自作機/Let'snote CF-B10
