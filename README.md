@@ -68,7 +68,7 @@
   - 仮想通貨、ブロックチェイン、機械学習、深層学習、人工知能
   - NeuralNetworkConsole(SONY)、TensorFlow(Google)
 - よく使う開発ツール
-  - 開発マシン：iMac/MacBookAir/Windows自作機/Let'snote CF-B10
+  - 開発マシン：iMac(21-inch)/MacBookPro(15-inch)/Windows自作機/Let'snote CF-B10
   - 使用OS：macOS(Siera)/Linux(Ubuntu16.04/CentOS7)/Windows10
   - エディタ：emacs/vim/atom
   - 世代管理：git/github/Bitbucket
