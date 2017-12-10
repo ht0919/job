@@ -36,7 +36,7 @@
 ## 主な習得技術
 
 - プログラミング
-  - C/C++/Objective-C/Java/Perl/PHP/Ruby/Python
+  - C/C++/Objective-C/Java/Perl/PHP/Ruby/Python/Scala
   - HTML5/CSS3/JavaScript/jQuery
 - データベース
   - PostgreSQL/MySQL/SQLite3
@@ -52,7 +52,7 @@
 
 ## プログラミング系の授業スタイル
 
-- 解説は最初の10分程度
+- 解説は最初の20分程度
 - 基本的にライブコーディング
 - 重要な部分はスライドで図解
 - github flow(branch→実装→テスト→commit→pull request→レビュー→merge)
@@ -65,15 +65,15 @@
 ## 個人プロジェクト
 
 - 最近の主な関心事項
-  - 仮想通貨、ブロックチェイン、機械学習、深層学習、人工知能
-  - NeuralNetworkConsole(SONY)、TensorFlow(Google)
+  - 機械学習、深層学習、人工知能、仮想通貨、ブロックチェイン
+  - Stanford University(Coursera) の Machine Learning Course を受講中
 - よく使う開発ツール
-  - 開発マシン：iMac(21-inch)/MacBookPro(15-inch)/Windows自作機/Let'snote CF-B10
+  - 開発マシン：iMac(Late2012)/MacBookPro(Retina 15-inch)/自作PC(Windows10)/Let'snote CF-B10
   - 使用OS：macOS(Siera)/Linux(Ubuntu16.04/CentOS7)/Windows10
   - エディタ：emacs/vim/atom
   - 世代管理：git/github/Bitbucket
-  - 統合開発環境：Xcode/AndroidStudio/VisualStudio
-  - 仮想環境：VirtualBox/VMwarePlayer/Vagrant
+  - 統合開発環境：IntelliJ IDEA/Xcode/AndroidStudio/VisualStudio
+  - 仮想環境：Vagrant/VirtualBox/VMwarePlayer
   - ビルドツール：make/ant/maven/rake
   - テストツール：JUnit/rspec/Minitest
   - PaaS：heroku
