@@ -89,7 +89,7 @@
 - 公開中のGitHubアドレス
   - [http://github.com/ht0919](http://github.com/ht0919)
 - プログラミングスキル(paiza)
-  - ランク：A、回答数：115問、言語マスター：12種類
+  - ランク：A、回答数：111問、言語マスター：12種類
   - Java/PHP/Ruby/Python2/Python3/Perl/C/C++/C#/JS/Objective-C/Scala/Go/Swift
 
 
