@@ -66,10 +66,11 @@
 
 - 最近の主な関心事項
   - 機械学習、深層学習、人工知能、仮想通貨、ブロックチェイン
-  - Stanford University(Coursera) の Machine Learning Course を受講中
+  - Stanford University(Coursera) の Machine Learning Course 修了
+    - [公開修了証のURL](https://www.coursera.org/account/accomplishments/certificate/2E54GUG5QQVW)
 - よく使う開発ツール
   - 開発マシン：iMac(Late2012)/MacBookPro(Retina 15-inch)/自作PC(Windows10)/Let'snote CF-B10
-  - 使用OS：macOS(Siera)/Linux(Ubuntu16.04/CentOS7)/Windows10
+  - 使用OS：macOS(High Siera)/Linux(Ubuntu16.04/CentOS7)/Windows10Pro
   - エディタ：emacs/vim/atom
   - 世代管理：git/github/Bitbucket
   - 統合開発環境：IntelliJ IDEA/Xcode/AndroidStudio/VisualStudio
