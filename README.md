@@ -125,10 +125,10 @@
 
 ### テクニカルライター(1995年4月〜2022年8月)
 
-- アマゾン出版 機械学習関連書籍(2022年8月)(シリーズ全8冊)
+- アマゾン出版：[機械学習関連書籍(シリーズ全8冊)](https://www.amazon.co.jp/stores/%E7%94%B0%E4%B8%AD-%E8%A3%95%E8%A1%8C/author/B0B7GC6XQJ?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)(2022年8月)
 - 技術評論社：[自宅で2台以上のパソコンをつなげたい人の本](http://gihyo.jp/book/2002/4-7741-1543-6/)(2002年8月)
-- 翔泳社：[ブロードバンド＋無線LANユーザーのためのナンデモ相談室](https://www.seshop.com/product/detail/1366)(2002年8月)
-- 翔泳社：[フレッツ・ISDN/ADSL/CATVユーザーのための常時接続セキュリティ入門](https://www.seshop.com/product/detail/2320)(2001年7月)
+- 翔泳社：[ブロードバンド＋無線LANユーザーのためのナンデモ相談室](https://www.amazon.co.jp/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%83%B3%E3%83%89-%E7%84%A1%E7%B7%9ALAN%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%87%E3%83%A2%E7%9B%B8%E8%AB%87%E5%AE%A4-%E7%94%B0%E4%B8%AD-%E8%A3%95%E8%A1%8C/dp/4798102563?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.JJRBVTjiZMioBzVNY7qKS_KiipEJnG4xla80KVkWME5PEMi1SqWRGPNtqXPBZRb_zaeD30Nh2R2xI_Mpgzu2jXduav4iCNDbwQeRV0YAKD8DcGl7IaYD72y3laeC-pDzkulc30UJndRzt5wlEtUhgSxMRO5d8Bp5Nx-TGhU8m5o.6kzvX42-8c290kLz0ffIpvTAyQ_Rz6ZU4HNlMJgqqrA&dib_tag=AUTHOR)(2002年8月)
+- 翔泳社：[フレッツ・ISDN/ADSL/CATVユーザーのための常時接続セキュリティ入門](https://www.amazon.co.jp/%E3%83%95%E3%83%AC%E3%83%83%E3%83%84%E3%83%BBISDN%E3%80%81ADSL%E3%80%81CATV%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%80%81%E5%B8%B8%E6%99%82%E6%8E%A5%E7%B6%9A%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%85%A5%E9%96%80-%E7%94%B0%E4%B8%AD-%E8%A3%95%E8%A1%8C/dp/4798100323?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.JJRBVTjiZMioBzVNY7qKS_KiipEJnG4xla80KVkWME5PEMi1SqWRGPNtqXPBZRb_zaeD30Nh2R2xI_Mpgzu2jXduav4iCNDbwQeRV0YAKD8DcGl7IaYD72y3laeC-pDzkulc30UJndRzt5wlEtUhgSxMRO5d8Bp5Nx-TGhU8m5o.6kzvX42-8c290kLz0ffIpvTAyQ_Rz6ZU4HNlMJgqqrA&dib_tag=AUTHOR)(2001年7月)
 - 月刊誌「アスキードットピーシー」(2003年11月号)
 - 月刊誌「アスキードットピーシー」(2003年9月号)
 - ナツメ出版社ステップ図解シリーズ(1995年4月～2000年1月)(5年間で55冊を執筆)
