@@ -109,10 +109,11 @@
   - Ruby on Rails 4 アプリケーションプログラム
   - Ruby on Rails 3 アプリケーションプログラム
   - RailsによるアジャイルWebアプリケーション開発(初版)
-- 公開中のスマートフォンアプリ
-  - [アルパカ牧場](https://itunes.apple.com/jp/app/arupaka-mu-chang/id529440333?mt=8&ign-mpt=uo%3D4)(iOS) ※ゲームアプリ
-  - [アルパカ税込電卓](https://itunes.apple.com/jp/app/arupaka-shui-ru-dian-zhuo/id834793329?mt=8&ign-mpt=uo%3D4)(iOS)
-  - [アルパカ税込電卓](https://play.google.com/store/apps/details?id=cx.ath.digiwrite.taxcalc)(Android)
+- 作成したスマートフォンアプリ
+  - [アルパカ牧場](http://digiwrite.ath.cx/~h_tanaka/apl/apl01j.html)(iOS) ※ゲームアプリ
+  - [アルパカ税込電卓](http://digiwrite.ath.cx/~h_tanaka/apl/apl02j.html)(iOS)
+  - [アルパカ税込電卓](http://digiwrite.ath.cx/~h_tanaka/apl/apl04j.html)(Android)
+
 - 公開中のGitHubアドレス
   - [http://github.com/ht0919](http://github.com/ht0919)
 - プログラミングスキル(paiza)
