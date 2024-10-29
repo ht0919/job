@@ -6,9 +6,9 @@
 - オンラインスクール(データサイエンス/AIコース)のメンター
 
 
-## 主な担当学校
+## 主な担当施設
 
-- 福岡デザインコミュニケーション専門学校(2005年10月～現在)
+- 福岡デザイン&テクノロジー専門学校(2005年10月～現在)
   - ゲームプログラム講座(1年生、2年生、3年生)
   - ネットワークプログラミング(2年生、3年生)
   - Webプログラミング講座(3年生)
@@ -17,6 +17,17 @@
   - 機械学習基礎(1年生、2年生)
   - 機械学習応用(3年生、4年生)
   - ディープラーニング演習(3年生、4年生)
+
+- DMM WEBCAMP(2021年1月～現在)
+  - データサイエンスコース
+    - Python基礎/教師あり学習/教師なし学習/統計学基礎
+    - 統計モデル/時系列モデル/因果推論モデル
+  - AIコース
+    - Python基礎/教師あり学習/教師なし学習
+    - ディープラーニング基礎(CNN,RNN)/自然言語処理/画像処理
+  - Webアプリケーションコース
+    - HTML/CSS基礎/Rubyプログラミング基礎
+    - Rails基礎/Rails応用
 
 - ヒューマンアカデミー福岡校(2006年4月～2020年3月)
   - 社会人向けプログラミング講座(Java/PHP/Ruby on Rails)
@@ -32,6 +43,17 @@
   - 長崎商工会議所(オープンソースソフトウェア活用技術)
   - 大分県産業創造機構(Java言語)
   - 福岡高等技術専門校(Linuxサーバー構築)
+
+- 富士通FOM株式会社
+  - 広島国税庁でセキュリティ対策講座
+  - 熊本国税庁でセキュリティ対策講座
+  - 長崎県国保連でセキュリティ対策講座
+
+- 東京ITスクール(4月～6月)
+  - 新入社員研修のメイン講師
+  - Eclipse/HTML/CSS/Oracle/Java/Spring Boot/JavaScript/AWS
+
+- [詳細情報のURL](http://digiwrite.ath.cx/~h_tanaka/lecturer.php)
 
 
 ## 主な習得技術
@@ -73,11 +95,11 @@
   - 機械学習、深層学習、人工知能、仮想通貨、ブロックチェイン
   
 - よく使う開発ツール
-  - 開発マシン：iMac(Late2012)/MacBookPro(Retina 15-inch)/自作PC(Windows10)/Let'snote CF-B10
-  - 使用OS：macOS(High Siera)/Linux(Ubuntu16.04/CentOS7)/Windows10Pro
-  - エディタ：emacs/vim/atom
+  - 開発マシン：HP G2(Windows10)/Lenovo ThinkPad X1C/iMac(Late2012)
+  - 使用OS：Linux(Ubuntu16.04/CentOS7)/Windows10Pro/macOS(High Siera)
+  - エディタ：emacs/vim/VSCode
   - 世代管理：git/github/Bitbucket
-  - 統合開発環境：IntelliJ IDEA/Xcode/AndroidStudio/VisualStudio
+  - 統合開発環境：Eclipse/IntelliJ IDEA/Xcode/AndroidStudio/VisualStudio
   - 仮想環境：Vagrant/VirtualBox/VMwarePlayer
   - ビルドツール：make/ant/maven/rake
   - テストツール：JUnit/rspec/Minitest
@@ -102,13 +124,15 @@
 
 ### テクニカルライター(1995年4月〜2022年8月)
 
-  - 技術評論社：[自宅で2台以上のパソコンをつなげたい人の本](http://gihyo.jp/book/2002/4-7741-1543-6/)(2002年8月)
-  - 翔泳社：[ブロードバンド＋無線LANユーザーのためのナンデモ相談室](https://www.seshop.com/product/detail/1366)(2002年8月)
-  - 翔泳社：[フレッツ・ISDN/ADSL/CATVユーザーのための常時接続セキュリティ入門](https://www.seshop.com/product/detail/2320)(2001年7月)
-  - 月刊誌「アスキードットピーシー」(2003年11月号)
-  - 月刊誌「アスキードットピーシー」(2003年9月号)
-  - ナツメ出版社ステップ図解シリーズ(1995年4月～2000年1月)(5年間で55冊を執筆)
-  - アマゾン出版 機械学習関連書籍(2022年8月)(シリーズ全8冊)
+- アマゾン出版 機械学習関連書籍(2022年8月)(シリーズ全8冊)
+- 技術評論社：[自宅で2台以上のパソコンをつなげたい人の本](http://gihyo.jp/book/2002/4-7741-1543-6/)(2002年8月)
+- 翔泳社：[ブロードバンド＋無線LANユーザーのためのナンデモ相談室](https://www.seshop.com/product/detail/1366)(2002年8月)
+- 翔泳社：[フレッツ・ISDN/ADSL/CATVユーザーのための常時接続セキュリティ入門](https://www.seshop.com/product/detail/2320)(2001年7月)
+- 月刊誌「アスキードットピーシー」(2003年11月号)
+- 月刊誌「アスキードットピーシー」(2003年9月号)
+- ナツメ出版社ステップ図解シリーズ(1995年4月～2000年1月)(5年間で55冊を執筆)
+  
+- [詳細情報のURL](http://digiwrite.ath.cx/~h_tanaka/book.htm)
 
 
 ### ソフトウェアエンジニア
@@ -125,6 +149,7 @@
   - 作曲ツール「[MUSIUM-2](http://digiwrite.ath.cx/~h_tanaka/game/gm03.html)」アセンブリ言語(Z80)
   - ミステリーアドベンチャーゲーム「[Daydream](http://digiwrite.ath.cx/~h_tanaka/game/gm02.html)」アセンブリ言語(Z80/8086/6809)
   - ロボットアクションゲーム「[ZION](http://digiwrite.ath.cx/~h_tanaka/game/gm01.html)」アセンブリ言語(6809)
+  - [詳細情報のURL](http://digiwrite.ath.cx/~h_tanaka/game/)
 
 
 - 三和プランニング株式会社(1982年4月〜1987年10月)
@@ -138,7 +163,7 @@
 
 - Stanford University(Coursera) の Machine Learning Course 修了
     - [公開修了証のURL](https://www.coursera.org/account/accomplishments/certificate/2E54GUG5QQVW)
-  - 北海道情報大学・経営情報学部・経営ネットワーク学科中退(2006年4月〜2012年3月)
+- 北海道情報大学・経営情報学部・経営ネットワーク学科中退(2006年4月〜2012年3月)
   - コンピューターサイエンス・人工知能・マーケティングなど、6年間で90単位を習得
 
 
@@ -147,3 +172,5 @@
   - 応用情報技術者(平成22年6月25日)
   - 日商簿記検定３級(平成17年6月12日)
   - 第ニ種情報技術者(平成3年6月7日)
+  - 第２級陸上特殊無線技士(令和3年11月7日)
+
